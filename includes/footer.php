@@ -1,0 +1,1 @@
+<footer><div class="container footer-grid"><a class="brand" href="<?=e(base_url())?>/">link<span>forge</span></a><p>Simple links. Clear signals. Built with privacy-conscious basics.</p><p>© <?=date('Y')?> LinkForge</p></div></footer><script src="<?=e(base_url())?>/assets/js/app.js" defer></script></body></html>
